@@ -1,0 +1,7 @@
+*.xml
+*.json
+Dockerfile
+fitness.build.ubuntu.deb
+fitpass.build.centos.rpm
+fitpass.zip
+production.env
